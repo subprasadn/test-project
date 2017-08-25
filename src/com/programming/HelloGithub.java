@@ -7,6 +7,7 @@ public class HelloGithub {
 System.out.println("Hello github");
 System.out.println("Hello sir");
 		//This comment is added in Github
+System.out.println("THis line is added Eclipse");
 	}
 
 }
